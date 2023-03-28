@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - sandbox
   pull_request:
     branches:
       - '*'
